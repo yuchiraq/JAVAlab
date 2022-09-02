@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class ton {
     static String defaultUnit = "ton";
 
@@ -8,9 +11,14 @@ public class ton {
             return false;
     }
 
-    static void conversationFull(float value){
-        float kg = value * 1000;
-        float gr = value * 1000000;
-        System.out.println(kg + "kg | " + gr + "gr" );
+    Map<String, Float> conversationFull(float value){
+        Float pud = new Float(61.05);
+        Float ounce = new Float(35273.96);
+        Map<String, Float> units = new HashMap<>();
+        units.put("kg", value * 1000);
+        units.put("gr", value * 1000000);
+        units.put("pud", value * pud);
+        units.put("ounce", value * ounce);
+        return units;
     }
 }
