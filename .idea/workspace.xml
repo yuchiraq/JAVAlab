@@ -7,8 +7,6 @@
     <list default="true" id="63447591-0eb6-4cd3-b79d-a832fdcf21da" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1/src/kg.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1/src/kg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1/src/ton.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1/src/ton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propDebugger"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
