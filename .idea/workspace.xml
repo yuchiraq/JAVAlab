@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63447591-0eb6-4cd3-b79d-a832fdcf21da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task2/task2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/task2/src/task2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chiraq\IdeaProjects\JAVAlab\task2\task2\src" />
+      <recent name="C:\Users\chiraq\IdeaProjects\JAVAlab\task2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task2">
     <configuration name="task1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="semeru-1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -55,6 +63,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.task1" />
+      <item itemvalue="Application.task2" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
